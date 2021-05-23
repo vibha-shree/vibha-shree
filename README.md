@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Vibha Shree M S</h1>
+<h1 align="center">Hi, I'm Vibha Shree M S 👋</h1>
 <h3 align="center">A passionate pre-final year student at Vidyavardhaka College of Engineering, Mysuru</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vibha-shree&label=Profile%20views&color=0e75b6&style=flat" alt="vibha-shree" /> </p>
