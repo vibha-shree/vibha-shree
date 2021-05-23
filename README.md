@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vibha-shree&label=Profile%20views&color=0e75b6&style=flat" alt="vibha-shree" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vibha-shree" alt="vibha-shree" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vibha-shree&theme=juicyfresh&margin-w=15&no-bg=true&no-frame=true" alt="vibha-shree" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/vibhaashree" target="blank"><img src="https://img.shields.io/twitter/follow/vibhaashree?logo=twitter&style=for-the-badge" alt="vibhaashree" /></a> </p>
 
-- 🌱 I’m currently learning **React, Bootstrap, Node.js, Kotlin**
+- 🌱 I’m currently learning **React, Node.js** and **Kotlin**
 
-- 📫 How to reach me **vibhashree99@gmail.com**
+- 📫 Reach out to me **vibhashree99@gmail.com**
 
 - ⚡ Fun fact **One thing I cannot live without is Corner House Ice creams**
 
