@@ -1,11 +1,9 @@
 <h1 align="center">Hi, I'm Vibha Shree M S 👋</h1>
 <h3 align="center">A passionate pre-final year student at Vidyavardhaka College of Engineering, Mysuru</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vibha-shree&label=Profile%20views&color=0e75b6&style=flat" alt="vibha-shree" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=vibha-shree&label=Profile%20views&color=fc46aa&style=flat" alt="vibha-shree" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vibha-shree&theme=juicyfresh&margin-w=15&no-bg=true&no-frame=true" alt="vibha-shree" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/vibhaashree" target="blank"><img src="https://img.shields.io/twitter/follow/vibhaashree?logo=twitter&style=for-the-badge" alt="vibhaashree" /></a> </p>
+<p align="left"> <a href="https://twitter.com/vibhaashree" target="blank"><img src="https://img.shields.io/twitter/follow/vibhaashree?logo=twitter&style=for-the-badge&color=fc46aa" alt="vibhaashree" /></a> </p>
 
 - 🌱 I’m currently learning **React, Node.js** and **Kotlin**
 
@@ -15,13 +13,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/vibhaashree" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/twitter.svg" alt="vibhaashree" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/vibha shree m s" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/linked-in-alt.svg" alt="vibha shree m s" height="30" width="40" /></a>
-<a href="https://instagram.com/vibha.22" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/instagram.svg" alt="vibha.22" height="30" width="40" /></a>
+<a href="https://twitter.com/vibhaashree" target="blank"><img align="center" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/twitter/twitter.png" alt="vibhaashree" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/vibha shree m s" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Linkedin.svg/1200px-Linkedin.svg.png" alt="vibha shree m s" height="30" width="40" /></a>
+<a href="https://instagram.com/vibha.22" target="blank"><img align="center" src="https://parentzone.org.uk/sites/default/files/Instagram%20logo.jpg" alt="vibha.22" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/vibha_99" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="vibha_99" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/vibhashree99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/hackerrank.svg" alt="vibhashree99" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/vibha22" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/leet-code.svg" alt="vibha22" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/vibhashree99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/geeks-for-geeks.svg" alt="vibhashree99" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -31,4 +26,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vibha-shree&show_icons=true&locale=en" alt="vibha-shree" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vibha-shree&" alt="vibha-shree" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vibha-shree" alt="vibha-shree" /></p>
