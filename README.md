@@ -2,7 +2,6 @@
 
 <h3 align="center">A passionate pre-final year student at Vidyavardhaka College of Engineering, Mysuru 🏫</h3>
 
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=vibha-shree&label=Profile%20views&color=fc46aa&style=flat" alt="vibha-shree" /> </p>
 <hr>
  Spotify Playing 🎧
 
