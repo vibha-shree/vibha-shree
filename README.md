@@ -3,11 +3,6 @@
 <h3 align="center">A passionate pre-final year student at Vidyavardhaka College of Engineering, Mysuru 🏫</h3>
 
 <hr>
- Spotify Playing 🎧
-
-
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Spotify Playing" width="350" />](https://open.spotify.com/user/317epdd4pqho4rgtmo25dtcileje)
-<hr>
 About Me 👸
 
 - 🌱 I’m currently learning **React**
@@ -39,11 +34,6 @@ Connect with me 🤝</h3>
 
 <hr>
 <h3 align="left">Stats 📊</h3>
-
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vibha-shree&show_icons=true&locale=en&layout=compact" alt="vibha-shree" /></p>
 <br>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vibha-shree&show_icons=true&locale=en" alt="vibha-shree" /></p>
-<br>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vibha-shree" alt="vibha-shree" /></p>
