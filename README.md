@@ -9,7 +9,7 @@ About Me 👸
 
 - 📫 Reach out to me **vibhashree99@gmail.com**
 
-- 🚥 2021 Goals: Contribute more to Open Source world
+- :trophy: 2021 Achievements : coded 30 projects in 30 days
 
 - ⚡ Fun fact **One thing I cannot live without is Corner House Ice creams** 🍦
 
