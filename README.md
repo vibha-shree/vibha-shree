@@ -1,6 +1,6 @@
 <h2 align='center'> 🙋‍♀️ Hi over there, I'm Vibha!</a>👋💻</h2>
 
-<h3 align="center">A passionate pre-final year student at Vidyavardhaka College of Engineering, Mysuru 🏫</h3>
+<h3 align="center">A passionate final year student at Vidyavardhaka College of Engineering, Mysuru 🏫</h3>
 
 <hr>
 About Me 👸
